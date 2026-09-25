@@ -72,4 +72,4 @@ if __name__ == "__main__":
                 print(full_command_result.decode())
     except Exception:
         print("Exception occured")
-        hacker_socket.close()
+        hacker_socket.close() 
